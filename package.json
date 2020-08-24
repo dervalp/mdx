@@ -34,7 +34,7 @@
     "test": "jest --runInBand --detectOpenHandles"
   },
   "devDependencies": {
-    "@babel/core": "7.11.1",
+    "@babel/core": "7.11.4",
     "@babel/plugin-syntax-jsx": "7.10.4",
     "@babel/preset-env": "7.11.0",
     "@babel/preset-react": "7.10.4",
@@ -94,7 +94,7 @@
     "yarn-deduplicate": "2.1.1"
   },
   "resolutions": {
-    "@babel/core": "7.11.1",
+    "@babel/core": "7.11.4",
     "@babel/preset-env": "7.11.0",
     "@babel/preset-react": "7.10.4",
     "@babel/preset-typescript": "^7.9.0",
